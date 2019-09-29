@@ -145,5 +145,6 @@
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-jackson:1.8.1" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.18" level="project" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-streaming_2.11:2.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot:2.1.0" level="project" />
   </component>
 </module>
